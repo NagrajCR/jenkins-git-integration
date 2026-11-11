@@ -4,7 +4,7 @@ test('Practice Test1',async({page}) => {
     await page.goto('https://www.google.com');
     console.log(await page.title());   
     console.log('Nagraj');
-   
+    console.log('SCM pooling changes:');
 })
 test('Practice Test2',async({page}) => {
     await console.log('Starting Practice Test2');
